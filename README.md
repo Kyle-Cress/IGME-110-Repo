@@ -1,1 +1,19 @@
 # IGME-110-Repo
+
+## Header 2
+
+---
+
+- First item
+- Second item
+- Third item
+
+1. First item
+2. Second item
+3. Third item
+
+[](https://www.rit.edu/)
+
+[RIT](https://www.rit.edu/)
+
+![alt text]()
